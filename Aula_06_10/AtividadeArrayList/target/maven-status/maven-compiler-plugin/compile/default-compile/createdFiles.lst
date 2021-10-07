@@ -1,0 +1,7 @@
+com\mycompany\atividadearraylist\Pojo\ProdutoPojo.class
+com\mycompany\atividadearraylist\Pojo\CategoriaPojo.class
+com\mycompany\atividadearraylist\Principal.class
+com\mycompany\atividadearraylist\Pojo\SubCategoriaPojo.class
+com\mycompany\atividadearraylist\Pojo\CamposDeData.class
+com\mycompany\atividadearraylist\FakeDB\EstoqueFakeDB.class
+com\mycompany\atividadearraylist\Pojo\CamposComuns.class
