@@ -1,5 +1,5 @@
 package ancestral;
-
+ 
 import javax.persistence.EntityManager;
 
 import javax.persistence.EntityManagerFactory;
