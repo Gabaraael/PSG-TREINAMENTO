@@ -1,5 +1,5 @@
 -- Create
-CREATE TABLE DeptoPorFunc(
+CREATE TABLE DeptoPorFunc( 
 	DeptoPorFuncID BIGINT NOT NULL IDENTITY(1,1),
 	FuncionarioID INT NOT NULL, 
 	DepartamentoID INT NOT NULL,
